@@ -31,3 +31,11 @@ Before publishing, search every file for:
 The public homepage imagery contains no identifiable youth. The hero and section-card images were cropped from the approved privacy-safe mockup.
 
 The Uniforms page uses official Scout Shop image URLs and official insignia-placement PDF URLs supplied for this project.
+
+
+Optimized production build:
+- Local images converted to WebP
+- Images resized for web display
+- CSS and JavaScript minified
+- HTML whitespace reduced
+- Local content images use lazy loading
